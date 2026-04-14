@@ -1,0 +1,182 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "interval": "1h",
+    "signal": "NO TRADE",
+    "reasons": [
+      "EMA bullish: ema20 (73883.09) > ema50 (72973.58)",
+      "RSI bullish: 64.68 > 55",
+      "MACD bearish: 639.62 < 710.07"
+    ],
+    "entryPrice": 74376.61,
+    "time": "2026-04-14T11:59:55.211Z",
+    "candleTime": 1776168000000,
+    "indicators": {
+      "ema20": 73883.08903085302,
+      "ema50": 72973.5780504546,
+      "rsi": 64.68,
+      "macdValue": 639.6209547201579,
+      "macdSignal": 710.0679153318686
+    }
+  },
+  {
+    "symbol": "SOLUSDT",
+    "interval": "15m",
+    "signal": "NO TRADE",
+    "reasons": [
+      "EMA bullish: ema20 (85.98) > ema50 (85.68)",
+      "RSI nötr: 48.91",
+      "MACD bearish: 0.03 < 0.07"
+    ],
+    "entryPrice": 85.91,
+    "time": "2026-04-14T11:52:22.730Z",
+    "candleTime": 1776167100000,
+    "indicators": {
+      "ema20": 85.9763962121305,
+      "ema50": 85.68180165727905,
+      "rsi": 48.91,
+      "macdValue": 0.02639098399346551,
+      "macdSignal": 0.07042015706728587
+    }
+  },
+  {
+    "symbol": "SOLUSDT",
+    "interval": "1h",
+    "signal": "NO TRADE",
+    "reasons": [
+      "EMA bullish: ema20 (85.25) > ema50 (84.23)",
+      "RSI bullish: 62.32 > 55",
+      "MACD bearish: 0.78 < 0.83"
+    ],
+    "entryPrice": 85.9,
+    "time": "2026-04-14T11:52:21.153Z",
+    "candleTime": 1776164400000,
+    "indicators": {
+      "ema20": 85.24712581464576,
+      "ema50": 84.22928028435629,
+      "rsi": 62.32,
+      "macdValue": 0.7796435796347225,
+      "macdSignal": 0.8269701141746536
+    }
+  },
+  {
+    "symbol": "SOLUSDT",
+    "interval": "4h",
+    "signal": "BUY",
+    "reasons": [
+      "EMA bullish: ema20 (83.94) > ema50 (83.29)",
+      "RSI bullish: 62.49 > 55",
+      "MACD bullish: 0.62 > 0.23"
+    ],
+    "entryPrice": 85.9,
+    "time": "2026-04-14T11:52:19.829Z",
+    "candleTime": 1776153600000,
+    "indicators": {
+      "ema20": 83.93915411649769,
+      "ema50": 83.28673617243116,
+      "rsi": 62.49,
+      "macdValue": 0.6214870936476018,
+      "macdSignal": 0.23494291452327998
+    }
+  },
+  {
+    "symbol": "ETHUSDT",
+    "interval": "4h",
+    "signal": "BUY",
+    "reasons": [
+      "EMA bullish: ema20 (2266.13) > ema50 (2214.31)",
+      "RSI bullish: 72.06 > 55",
+      "MACD bullish: 38.89 > 21.43"
+    ],
+    "entryPrice": 2374.86,
+    "time": "2026-04-14T11:52:17.791Z",
+    "candleTime": 1776153600000,
+    "indicators": {
+      "ema20": 2266.130019157409,
+      "ema50": 2214.310779601333,
+      "rsi": 72.06,
+      "macdValue": 38.89029641060506,
+      "macdSignal": 21.433572985341577
+    }
+  },
+  {
+    "symbol": "ETHUSDT",
+    "interval": "15m",
+    "signal": "NO TRADE",
+    "reasons": [
+      "EMA bullish: ema20 (2376.49) > ema50 (2358.22)",
+      "RSI nötr: 50.59",
+      "MACD bearish: 2.41 < 5.18"
+    ],
+    "entryPrice": 2374.6,
+    "time": "2026-04-14T11:52:16.377Z",
+    "candleTime": 1776167100000,
+    "indicators": {
+      "ema20": 2376.4892519481964,
+      "ema50": 2358.2235063064463,
+      "rsi": 50.59,
+      "macdValue": 2.4052504725264043,
+      "macdSignal": 5.181131392626098
+    }
+  },
+  {
+    "symbol": "BTCUSDT",
+    "interval": "15m",
+    "signal": "NO TRADE",
+    "reasons": [
+      "EMA bullish: ema20 (74456.87) > ema50 (74218.12)",
+      "RSI nötr: 46.02",
+      "MACD bearish: -5.42 < 40.23"
+    ],
+    "entryPrice": 74365.25,
+    "time": "2026-04-14T11:52:14.870Z",
+    "candleTime": 1776167100000,
+    "indicators": {
+      "ema20": 74456.87216100135,
+      "ema50": 74218.11639028316,
+      "rsi": 46.02,
+      "macdValue": -5.420057623734465,
+      "macdSignal": 40.231306797456014
+    }
+  },
+  {
+    "symbol": "BTCUSDT",
+    "interval": "4h",
+    "signal": "BUY",
+    "reasons": [
+      "EMA bullish: ema20 (72618.69) > ema50 (71477.70)",
+      "RSI bullish: 68.05 > 55",
+      "MACD bullish: 699.65 > 413.47"
+    ],
+    "entryPrice": 74365.25,
+    "time": "2026-04-14T11:52:13.290Z",
+    "candleTime": 1776153600000,
+    "indicators": {
+      "ema20": 72618.6949221332,
+      "ema50": 71477.69761388576,
+      "rsi": 68.05,
+      "macdValue": 699.6520890733518,
+      "macdSignal": 413.4724013094361
+    }
+  },
+  {
+    "symbol": "BTCUSDT",
+    "interval": "1h",
+    "signal": "NO TRADE",
+    "reasons": [
+      "EMA bullish: ema20 (73830.07) > ema50 (72915.97)",
+      "RSI bullish: 64.55 > 55",
+      "MACD bearish: 677.89 < 727.50"
+    ],
+    "entryPrice": 74365.26,
+    "time": "2026-04-14T11:52:07.490Z",
+    "candleTime": 1776164400000,
+    "indicators": {
+      "ema20": 73830.06707342474,
+      "ema50": 72915.96792766357,
+      "rsi": 64.55,
+      "macdValue": 677.8854569116666,
+      "macdSignal": 727.5000836104293
+    }
+  }
+]
